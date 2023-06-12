@@ -1,1 +1,0 @@
-# papelaria-python-console
